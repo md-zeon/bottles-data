@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "capacity": "1L",
+    "material": "Plastic",
+    "price": 20,
+    "isReusable": false,
+    "weight": "500g",
+    "lifespan": "Single-use",
+    "hotColdSupport": false,
+    "image": "https://www.walmart.com/ip/Aquafina-Purified-Drinking-Water-20-fl-oz-Bottle/11979961"
+  },
+  {
+    "id": 2,
+    "brand": "Bisleri",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "price": 10,
+    "isReusable": false,
+    "weight": "300g",
+    "lifespan": "Single-use",
+    "hotColdSupport": false,
+    "image": "https://www.bisleri.com/BIS-1LTR12-240.html"
+  },
+  {
+    "id": 3,
+    "brand": "Milton",
+    "capacity": "750ml",
+    "material": "Stainless Steel",
+    "price": 500,
+    "isReusable": true,
+    "weight": "700g",
+    "lifespan": "5 years",
+    "hotColdSupport": true,
+    "image": "https://www.amazon.in/MILTON-Stainless-Steel-Water-Bottle/dp/B08QWY66MQ"
+  },
+  {
+    "id": 4,
+    "brand": "Hydro Flask",
+    "capacity": "1.5L",
+    "material": "Stainless Steel",
+    "price": 1500,
+    "isReusable": true,
+    "weight": "1.2kg",
+    "lifespan": "10 years",
+    "hotColdSupport": true,
+    "image": "https://www.hydroflask.com/40-oz-wide-mouth"
+  },
+  {
+    "id": 5,
+    "brand": "Tupperware",
+    "capacity": "1L",
+    "material": "BPA-Free Plastic",
+    "price": 300,
+    "isReusable": true,
+    "weight": "600g",
+    "lifespan": "3 years",
+    "hotColdSupport": false,
+    "image": "https://www.tupperware.com/collections/water-bottles"
+  }
+]
